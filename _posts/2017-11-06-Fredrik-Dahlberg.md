@@ -13,3 +13,13 @@ permalink: /:categories/:day/:month/:year/:title
 [Vill ni ha bilden i PDF-format för eget bruk?]({{ "/assets/Untitled.png" | absolute_url }})
 
 [titta på det här](www.google.se)
+
+
+Lista över alla inlägg
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
