@@ -1,20 +1,15 @@
 ---
-layout: "post"
-title: "Fredrik Dahlberg!"
+layout: post
+title: Fredrik Dahlberg!
 date:   2017-11-06 05:28:56 -0600
 categories: blogg
 permalink: /:categories/:day/:month/:year/:title
 ---
-Markup
 
-# En rubrikjävel
-###### Den minsta rubrikjäveln
-En helt vanlig paragrafjävel
+![En bild på mig]({{ "/assets/Untitled.png" | absolute_url }})
+
+
+
+[Vill ni ha bilden i PDF-format för eget bruk?]({{ "/assets/Untitled.png" | absolute_url }})
+
 [titta på det här](www.google.se)
-
-HTML
-
-<h1>En rubrikjävel</h1>
-<h6>Den minsta rubrikjäveln</h6>
-<p>En helt vanlig paragrafjävel</p>
-<a href="www.google.se">Titta på det här</a>

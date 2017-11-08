@@ -209,6 +209,7 @@
  */
 .post-header {
   margin-bottom: $spacing-unit;
+  background-color: rgb(255, 4, 4);
 }
 
 .post-title {
@@ -229,6 +230,7 @@
 
     @include media-query($on-laptop) {
       @include relative-font-size(1.75);
+      color:red;
     }
   }
 
