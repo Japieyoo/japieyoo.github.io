@@ -11,7 +11,7 @@ Jag bor i Skellefte (...å), gillar fotboll på hög nivå och värme, ironiskt 
 
 ![En bild på mig]({{ "/minima-2.1.1/assets/Untitled.png" | absolute_url }})
 
-Saker som får mig att må dåligt eller känna avsky:
+Saker som får mig att må dåligt:
 
 1. Manchester United
 2. CSS

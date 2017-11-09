@@ -11,8 +11,8 @@ Jag tycker att vanlig CSS är bland det värsta som finns faktiskt, så att få 
 Isället för att skriva egen CSS-kod så har man en kompilator som genererar koden åt dig (sass). 
 
 Fördelarna med detta är väl främst att det är
-lättare att underhålla, då man bara behöver ändra på ett ställe i stället för kanske 10, bara för att byta färg. Sen har jag lärt mig att man också kan använda sig utan en mängd variabler för att ytterligare underlätta för sig. 
+lättare att underhålla, då man bara behöver ändra på ett ställe i stället för kanske 10, bara för att byta färg. Sen har jag lärt mig att man också kan använda sig utav en mängd variabler för att ytterligare underlätta för sig. 
 
-Men trots att jag såg fram emot detta så är det fortfarande mycket att ta in, så där måste jag ge CSS en poäng, det är lättare till en början, då kanske man inte bryr sig allt för mycket om saker och ting tar lite mer tid.
+Men trots att jag såg fram emot detta så är det fortfarande mycket att ta in, så där måste jag ge CSS en poäng, det är lättare till en början, då kanske man inte bryr sig allt för mycket om saker och ting tar lite mer tid. Samt att när man ska debugga sin kod som blivit kompilerad så är raderna med kod olik dina egna rader, behöver ytterligare ett verktyg för att få det att stämma.
 
 

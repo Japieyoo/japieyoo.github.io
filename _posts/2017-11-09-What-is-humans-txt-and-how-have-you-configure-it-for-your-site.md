@@ -8,4 +8,4 @@ title: What is humans.txt and how you configure it for your site?
 
 En humans.txt fil är till för att visa vilka personer som står bakom uppbyggnaden av webbplatsen. Istället för att skriva ut vem som gjort webbsidan på själva sidan, så kan man istället göra en humans.txt i roten av domänen där alla som bidragit till sidan står listade.
 
-Jag har valt att lägga in en humans.txt och skriva in min som author.
+Jag har valt att lägga in en humans.txt och skriva in mig som author och även lägga in länken till den guide jag fick för att få disqus att funka.

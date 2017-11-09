@@ -1,1 +1,3 @@
 author: Fredrik Dahlberg
+
+disqus author: https://desiredpersona.com/disqus-comments-jekyll/

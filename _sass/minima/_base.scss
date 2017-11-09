@@ -6,8 +6,8 @@ p, blockquote, pre, hr,
 dl, dd, ol, ul, figure {
   margin: 0;
   padding: 0;
-  
 }
+
 hr {
   border-top: 1px solid #000000;
 }
@@ -28,6 +28,10 @@ body {
           font-feature-settings: "kern" 1;
   font-kerning: normal;
   background-color: #FFF8DC;
+}
+
+h1, p, ol {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 
@@ -90,6 +94,7 @@ li {
  */
 h1, h2, h3, h4, h5, h6 {
   font-weight: $base-font-weight;
+  font-size: 40px;
 }
 
 
