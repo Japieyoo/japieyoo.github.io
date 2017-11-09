@@ -1,12 +1,22 @@
 ---
-layout: page
+layout: about
 title: Om mig
 permalink: /about/
 ---
-Hej jag heter Fredrik
+# Hej,
+
+Fredrik heter jag och läser Utveckling och drift av mjukvarusystem på LinnéUniversitetet. 
+
+Jag bor i Skellefte (...å), gillar fotboll på hög nivå och värme, ironiskt nog.
 
 ![En bild på mig]({{ "/minima-2.1.1/assets/Untitled.png" | absolute_url }})
 
+Saker som får mig att må dåligt eller känna avsky:
+
+1. Manchester United
+2. CSS
+3. Svamp
+4. Ingefära
 
 
-[Vill ni ha bilden i PDF-format för eget bruk?]({{ "/minima-2.1.1/assets/Untitled.png" | absolute_url }})
+[Vill ni ha bilden på mig i PDF-format för privat-bruk?]({{ "/minima-2.1.1/assets/Untitled.png" | absolute_url }})
