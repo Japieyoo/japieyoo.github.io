@@ -3,7 +3,7 @@ layout: post
 date:   2017-11-06 05:28:56 -0600
 categories: blogg
 permalink: /:categories/:day/:month/:year/:title
-title:  CSS?
+title: What do you think of pre-compiling your CSS?
 ---
 
 Jag tycker att vanlig CSS är bland det värsta som finns faktiskt, så att få chansen att prova på förkompilerad CSS såg jag fram emot.
