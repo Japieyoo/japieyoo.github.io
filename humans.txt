@@ -1,3 +1,4 @@
 author: Fredrik Dahlberg
 
 speciall thanks to https://desiredpersona.com/disqus-comments-jekyll/ for disqus guide
+and Emil Larsson for helping me find an error with my head-html code.
